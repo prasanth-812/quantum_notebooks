@@ -62,8 +62,6 @@ Their general pattern is:
 This is a variational quantum approach: rather than solving the exact linear system directly, the code searches for a low-energy or best-fit parameter vector that approximates the desired physical solution.
 
 ## 5. Project files currently in the folder
-- `_auto_summary_test.txt` — Text file: Supporting project artifact used in the numerical experiments.
-- `_verification_added.txt` — Text file: Supporting project artifact used in the numerical experiments.
 - `Poisson_1D_periodic_corrected.ipynb` — Jupyter notebook: Solves the 1D periodic Poisson problem using a quantum-circuit-based implementation and compares the result with the analytic solution.
 - `trial_2 copy.ipynb` — Jupyter notebook: Explores a variational or trial-quantum approach using ansatz circuits, parameter optimization, and energy-style objective functions.
 - `trial_2.ipynb` — Jupyter notebook: Explores a variational or trial-quantum approach using ansatz circuits, parameter optimization, and energy-style objective functions.
